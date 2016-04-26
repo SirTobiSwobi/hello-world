@@ -1,1 +1,2 @@
-Just a repository to try different things. No real use expected
+# hello-world
+just trying different things. Not really useful for anyone
